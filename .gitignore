@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+venv/
+demo-state/
+state/
+*.log
+*.zip
+*.zip.sha256

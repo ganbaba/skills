@@ -1,0 +1,1 @@
+Demonstrate two local relay steps, then stop for human review. Do not use any network or real AI service.

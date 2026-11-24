@@ -1,0 +1,9 @@
+{
+  "protocol_version": 1,
+  "timeout_seconds": 900,
+  "checkpoint_seconds": 30,
+  "cooldown_seconds": 300,
+  "failover_on_failure": false,
+  "manual_agents": [],
+  "max_output_bytes": 2097152
+}
