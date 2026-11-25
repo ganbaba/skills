@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chorotheia"
+version = "1.0.0"
+description = "Local portable agent memory, checkpoints and handoff"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+chorotheia = "chorotheia.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["chorotheia*"]

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+*.egg-info/
+build/
+dist/
+.agent/
+.chorotheia-agent/
+AGENTS.md
+HANDOFF.md
+backups/
+local/
+.env
+.env.*
